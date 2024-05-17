@@ -1,0 +1,27 @@
+.selectColorGradient_js_metadata <- function() {
+deps_metadata <- list(`select_color_gradient` = structure(list(name = "select_color_gradient",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SelectColorGradient.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "selectColorGradient",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`select_color_gradient` = structure(list(name = "select_color_gradient",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SelectColorGradient.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "selectColorGradient",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`select_color_gradient` = structure(list(name = "select_color_gradient",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'select_color_gradient.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "selectColorGradient",
+all_files = FALSE), class = "html_dependency"),
+`select_color_gradient` = structure(list(name = "select_color_gradient",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'select_color_gradient.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "selectColorGradient",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}

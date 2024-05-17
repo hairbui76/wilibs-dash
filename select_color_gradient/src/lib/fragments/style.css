@@ -1,0 +1,16 @@
+.ant-progress-steps-item {
+  border: 1px solid #cacaca;
+}
+
+.ant-progress-steps-outer {
+  justify-content: flex-end;
+}
+
+.ant-progress-line {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ant-select-dropdown {
+  width: fit-content;
+}

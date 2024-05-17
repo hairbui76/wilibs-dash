@@ -1,0 +1,11 @@
+include select_color_gradient/select_color_gradient.min.js
+include select_color_gradient/select_color_gradient.min.js.map
+include select_color_gradient/async-*.js
+include select_color_gradient/async-*.js.map
+include select_color_gradient/*-shared.js
+include select_color_gradient/*-shared.js.map
+include select_color_gradient/metadata.json
+include select_color_gradient/package-info.json
+include README.md
+include LICENSE
+include package.json

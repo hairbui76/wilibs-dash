@@ -1,0 +1,1 @@
+export const SelectColorGradient = React.lazy(() => import(/* webpackChunkName: "SelectColorGradient" */ './fragments/SelectColorGradient.react'));
